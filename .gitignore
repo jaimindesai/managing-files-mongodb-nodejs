@@ -1,5 +1,7 @@
 build/
 node_modules/
+uploads/
+log/
 
 # Coverage and Testing
 .nyc_output/
